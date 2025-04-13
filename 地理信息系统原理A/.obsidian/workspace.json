@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "e765e89a2e2f7b89",
+    "type": "split",
+    "children": [
+      {
+        "id": "2be046bbbf709bf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "218ce1b10e07ab02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chp3. 空间数据结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chp3. 空间数据结构"
+            }
+          },
+          {
+            "id": "0f7b096a2d8f9e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d6db8e81dda9b10",
+    "type": "split",
+    "children": [
+      {
+        "id": "e97099f6e6e158ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3ae93ad5f768b96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "399038cc58d96fd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "48a85204d2e1dc0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8f9954aa4aeb16e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b99ff6070badda94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50535d65b75b4899",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chp3. 空间数据结构.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Chp3. 空间数据结构 的反向链接列表"
+            }
+          },
+          {
+            "id": "5ad7b94f439ad9db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第二章 空间信息基础.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第二章 空间信息基础 的出链列表"
+            }
+          },
+          {
+            "id": "97de28145222eb0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "76d2f867cfd64c7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0f7b096a2d8f9e8c",
+  "lastOpenFiles": [
+    "Chp3. 空间数据结构.md",
+    "Chp1. 绪论.md",
+    "README.md",
+    "Chp2. 空间信息基础.md",
+    "Res/Chp3-13.png",
+    "Res/3{[12E@}ZO9P8WR5FHYC81Q.png",
+    "Res/Chp3-12.png",
+    "Res/%GKNY_O86]]E34CG]M3VBCQ.png",
+    "Res/Chp3-11.png",
+    "Res/R59[}W%}_K80Q[2WCM}58A1.png",
+    "Res/Chp3-10.png",
+    "Res/H2QKN3W)$G5AQI]AJZ({9YL.png",
+    "Res/Chp3-9.png",
+    "Res/HPYBV`])TBT}AF)PL69]J$W.png",
+    "Res",
+    "新建文件夹"
+  ]
+}
